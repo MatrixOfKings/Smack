@@ -1,9 +1,10 @@
-package com.almoalm.kinan.smack
+package com.almoalm.kinan.smack.Controllers
 
 import android.graphics.Color
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
 import android.view.View
+import com.almoalm.kinan.smack.R
 import kotlinx.android.synthetic.main.activity_create_user.*
 import java.util.*
 
